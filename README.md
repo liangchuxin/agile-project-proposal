@@ -4,7 +4,7 @@
 
 > Is that the truth surfacing, or a corpse?
 
-**Team:** [Celia Liang cl7093](https://github.com/liangchuxin), [Yazhen Li]() yl11087@nyu.edu
+**Team:** [Celia Liang cl7093](https://github.com/liangchuxin), [Yazhen Li](https://github.com/Yazhen-L) yl11087
 
 ![call from deep](assets/call%20from%20deep.png)
 
@@ -21,7 +21,9 @@ The game is made of two layers. The main layer is pre-written illustrated narrat
 
 At the end of each investigation the player returns with a trophy, which is filed into the institute's archive, building up a continuously accumulating body of text and a collection that grows larger over time.
 
-<img src="assets/img1.png" width="420" alt="img1">
+<p align="center">
+  <img src="assets/img1.png" width="420" alt="img1">
+</p>
 
 ### Why?
 
@@ -41,7 +43,9 @@ Users who live and work in dense urban environments and are looking for an immer
 
 Users who were interested in AI character conversation products but stopped using them because there was no narrative behind them. The reason this group drops off corresponds directly to the layered design of this project.
 
-<img src="assets/img3.png" width="420" alt="img3">
+<p align="center">
+  <img src="assets/img3.png" width="420" alt="img3">
+</p>
 
 ### How
 
