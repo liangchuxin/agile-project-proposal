@@ -4,7 +4,7 @@
 
 > Is that the truth surfacing, or a corpse?
 
-**Team:** [Celia Liang cl7093](https://github.com/liangchuxin), [Yazhen Li](https://github.com/Yazhen-L) yl11087
+**Team:** [Celia Liang](https://github.com/liangchuxin) cl7093, [Yazhen Li](https://github.com/Yazhen-L) yl11087
 
 ![call from deep](assets/call%20from%20deep.png)
 
